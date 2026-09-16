@@ -6,7 +6,7 @@ Claude Code should use this vault as an ordinary project directory.
 
 `CLAUDE.md` is the Claude Code project instruction file.
 
-In this candidate it contains only:
+It contains only:
 
 ```text
 @AGENTS.md
@@ -24,7 +24,7 @@ Do not put the following in `CLAUDE.md`:
 
 ## Thin adapter
 
-`.claude/settings.json` is a project-level adapter. The verified purpose in this candidate is to disable Claude Code auto-memory:
+`.claude/settings.json` is a project-level adapter. The verified purpose in this repository is to disable Claude Code auto-memory:
 
 ```json
 {

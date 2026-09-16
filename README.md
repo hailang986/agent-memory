@@ -98,7 +98,7 @@ Do not store credentials, identity documents, or private evidence in these files
 
 Codex should treat `AGENTS.md` as the main governance file.
 
-`.codex/config.toml` is a thin project-level adapter. In this candidate it only disables Codex private memories so they do not compete with the Markdown vault.
+`.codex/config.toml` is a thin project-level adapter. In this repository it only disables Codex private memories so they do not compete with the Markdown vault.
 
 It does not scan files, block secrets, or enforce privacy automatically. Privacy remains an agent-behavior rule plus human review. See `docs/codex.md`.
 

@@ -21,7 +21,7 @@ Preferred alias: [optional alias]
 - Multiple AI coding agents may work in the same vault. They should share these Markdown files instead of private memory.
 - Before changing files, inspect the current on-disk state.
 - Prefer small, reversible steps with a clear check after each important change.
-- Keep durable facts in Markdown. Use Git for history once version control is enabled.
+- Keep durable facts in Markdown. Use Git for history.
 
 ## Stable constraints
 

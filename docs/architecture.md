@@ -19,7 +19,7 @@ The vault exists so that:
 
 - different agents start from the same files
 - a human can inspect the same facts without opening an agent transcript
-- changes can later be reviewed and reverted in Git
+- changes can be reviewed and reverted in Git
 
 ## Layers
 
@@ -30,7 +30,7 @@ humans and agents
  Markdown files     <- current truth
         │
         ▼
-      Git           <- history, once version control is enabled
+      Git           <- history
 ```
 
 Thin adapters sit beside the vault:

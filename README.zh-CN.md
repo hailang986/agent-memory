@@ -98,7 +98,7 @@ AgentMemory 把持久事实放在普通 Markdown 里，让人和 Agent 共用同
 
 Codex 应以 `AGENTS.md` 为主要治理入口。
 
-`.codex/config.toml` 只是项目级薄适配。本候选版本里，它只关闭 Codex 私有 memories，避免与 Markdown 知识库形成双重真相。
+`.codex/config.toml` 只是项目级薄适配。本仓库中，它只关闭 Codex 私有 memories，避免与 Markdown 知识库形成双重真相。
 
 它不会自动扫描文件、拦截 secrets，也不会自动执行隐私策略。隐私仍然依赖 Agent 行为治理和人工审查。详见 `docs/codex.md`。
 

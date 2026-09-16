@@ -6,7 +6,7 @@ Codex should use this vault as an ordinary project directory.
 
 ## Thin adapter
 
-`.codex/config.toml` is a project-level adapter. The verified purpose in this candidate is to keep Codex private memories from competing with the Markdown vault:
+`.codex/config.toml` is a project-level adapter. The verified purpose in this repository is to keep Codex private memories from competing with the Markdown vault:
 
 ```toml
 [features]

@@ -48,7 +48,7 @@ If something must exist on disk but must not be shared, keep it outside the vaul
 
 `.gitignore` is only a safeguard against accidental adds. It is not a security boundary.
 
-Typical ignored names in this candidate:
+Typical ignored names in this repository:
 
 - `secrets/`
 - `private/`
