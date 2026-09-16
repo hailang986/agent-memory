@@ -19,7 +19,7 @@ Preferred alias: [optional alias]
 
 - How agents should inspect state before changing files:
 - How large work should be split:
-- How Git should be used once version control is enabled:
+- How Git should be used for history and review:
 
 ## Stable constraints
 
