@@ -1,0 +1,24 @@
+# macOS local metadata
+.DS_Store
+._*
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Common secret-bearing files
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local-only sensitive or raw material
+secrets/
+private/
+raw/
+attachments/
+
+# Logs and temporary files
+*.log
+*.tmp
